@@ -1,4 +1,4 @@
-# Contributing to the Flutter dtabs
+# Contributing to the Flutter azlist
 
 ## What you will need
 
@@ -9,17 +9,17 @@
 
 ## Setting up your development environment
 
-- Fork `https://github.com/himanshu64/dtabs` into your own GitHub account. If you already have a fork and moving to a new computer, make sure you update you fork.
+- Fork `https://github.com/himanshu64/azlist` into your own GitHub account. If you already have a fork and moving to a new computer, make sure you update you fork.
 - If you haven't configured your machine with an SSH key that's known to github, then
   follow [GitHub's directions](https://help.github.com/articles/generating-ssh-keys/)
   to generate an SSH key.
-- Clone your forked repo on your local development machine: `git clone git@github.com:<your_name_here>/dtabs.git`
-- Change into the `dtabs` directory: `cd dtabs`
-- Add an upstream to the original repo, so that fetch from the master repository and not your clone: `git remote add upstream git@github.com:himanshu64/dtabs.git`
+- Clone your forked repo on your local development machine: `git clone git@github.com:<your_name_here>/azlist.git`
+- Change into the `azlist` directory: `cd azlist`
+- Add an upstream to the original repo, so that fetch from the master repository and not your clone: `git remote add upstream git@github.com:himanshu64/azlist.git`
 
 ## Running the example project
 
-- Change into the example directory: `cd dtabs/example`
+- Change into the example directory: `cd azlist/example`
 - Run the App: `flutter run`
 
 ## Contribute
@@ -39,6 +39,6 @@ We really appreciate contributions via GitHub pull requests. To contribute take 
 
 Send us your pull request:
 
-- Go to `https://github.com/himanshu64/dtabs` and click the "Compare & pull request" button.
+- Go to `https://github.com/himanshu64/azlist` and click the "Compare & pull request" button.
 
 Please make sure you solved all warnings and errors reported by the static code analyses and that you fill in the full pull request template. Failing to do so will result in us asking you to fix it.
